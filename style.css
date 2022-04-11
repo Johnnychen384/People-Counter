@@ -1,0 +1,35 @@
+body {
+    background-color: black;
+    color: white;
+}
+
+h1 {
+    text-align: center;
+}
+
+h2 {
+    text-align: center;
+}
+
+button {
+    display: block;
+    margin: 0 auto;
+    border: none;
+
+}
+
+#increment-btn {
+    margin-bottom: 10px;
+    padding: 10px 40px 10px 40px;
+
+
+}
+
+#save-btn {
+    margin-bottom: 10px;
+    padding: 10px 55px 10px 55px;
+}
+
+#save-el {
+    text-align: center;
+}
